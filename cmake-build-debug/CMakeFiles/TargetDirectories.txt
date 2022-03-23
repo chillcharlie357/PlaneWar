@@ -1,0 +1,3 @@
+D:/iCode/C-pl/Project-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/iCode/C-pl/Project-2/cmake-build-debug/CMakeFiles/PlaneWar.dir
+D:/iCode/C-pl/Project-2/cmake-build-debug/CMakeFiles/edit_cache.dir

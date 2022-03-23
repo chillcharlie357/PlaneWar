@@ -1,0 +1,7 @@
+
+^c:S107"GThis function has 8 parameters, which is greater than the 7 authorized.(½«îòüÿÿÿÿ
+qc:S1186""YAdd a nested comment explaining why this method is empty, or complete the implementation.(¥ÎÅ«úÿÿÿÿ
+Nc:S1172""6Remove the unused parameter "self" or make it unnamed.(¥ÎÅ«úÿÿÿÿ
+tc:S995""]Make the type of this parameter a pointer-to-const. The current type of "self" is "Bullet *".(¥ÎÅ«úÿÿÿÿ
+tc:S995&"]Make the type of this parameter a pointer-to-const. The current type of "self" is "Bullet *".(ŠŞÈÊüÿÿÿÿ
+>c:CommentedCode0"Remove the commented out code.(åèÿÿÿÿÿ

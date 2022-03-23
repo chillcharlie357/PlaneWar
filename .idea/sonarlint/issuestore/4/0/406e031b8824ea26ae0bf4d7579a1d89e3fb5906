@@ -1,0 +1,35 @@
+
+hc:S5276Å"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(Ò¿•ùÿÿÿÿÿ
+hc:S5276È"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(™Øµ¡úÿÿÿÿ
+@c:CommentedCode]"Remove the commented out code.(×Ú‰Ü8ëõû¨ë/
+^c:S5276ì"Jimplicit conversion loses integer precision: 'unsigned long long' to 'int'(Õü£à
+:c:CommentedCodeš"Remove the commented out code.(„‡…‚
+Ic:S1172A"6Remove the unused parameter "argc" or make it unnamed.(ª½É¡
+Ic:S1172A"6Remove the unused parameter "argv" or make it unnamed.(ª½É¡
+cc:S3222H"KRename label "GameStart" to match the regular expression: ^[A-Z][A-Z0-9_]*$(‡ÂØ—şÿÿÿÿ
+`c:SingleDeclarationPerStatementX"0Define each identifier in a dedicated statement.(¡Ê²‘şÿÿÿÿ
+^c:S1301h"KReplace this "switch" statement by "if" statements to increase readability.(…áÆß
+jc:BackJumpWithGotol"GThis goto statement must be replaced by a standard iteration statement.(¿íÒØşÿÿÿÿ
+Uc:SwitchWithoutDefault".Add a "default" case to this switch statement.(üÈ»Ãÿÿÿÿÿ
+{c:S5350½"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(äåµ
+Lc:S1764¾"8Identical sub-expressions on both sides of operator "/".(Ş¹ñó
+{c:S5350Ã"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(”ªôõ
+yc:S5350Ê"eMake the type of this variable a pointer-to-const. The current type of "s" is "struct SDL_Surface *".(ÏÂŠ™
+€c:S5350ó"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(úáÅºùÿÿÿÿ
+hc:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 53 to the 25 allowed.(¹ş’à
+ec:S134ş"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(íÈ“³ÿÿÿÿÿ
+`c:S134‡"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÉÅºø
+`c:S134™"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(šĞ÷£
+Jc:S1066ˆ"1Merge this "if" statement with the enclosing one.(°öòöıÿÿÿÿ
+Lc:S1764“"8Identical sub-expressions on both sides of operator "/".(Ø‚Æ 
+yc:S5350²"eMake the type of this variable a pointer-to-const. The current type of "s" is "struct SDL_Surface *".(ÏÂŠ™
+€c:S5350Û"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(İØŞİşÿÿÿÿ
+€c:S5350€"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(‹ñ ½ùÿÿÿÿ
+`c:S134™"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(”õÑ
+ec:S134Ã"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ŠÀ‰ùÿÿÿÿ
+€c:S5350¬"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(Ä¾Ïæüÿÿÿÿ
+€c:S5350Â"gMake the type of this variable a pointer-to-const. The current type of "sur" is "struct SDL_Surface *".(úáÅºùÿÿÿÿ
+_c:S134†"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(€¦ài
+Vc:SwitchWithoutDefaultı".Add a "default" case to this switch statement.(üÈ»Ãÿÿÿÿÿ
+Kc:S836W"41st function call argument is an uninitialized value(ó’úÿÿÿÿ
+:c:CommentedCodeœ"Remove the commented out code.(¤ÚğÌ

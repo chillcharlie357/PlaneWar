@@ -1,0 +1,76 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Program Files (x86)/MinGW/SDL2-2.0.18/x86_64-w64-mingw32/include",
+						"D:/Program Files (x86)/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+						"D:/Program Files (x86)/MinGW/mingw64/include",
+						"D:/Program Files (x86)/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+						"D:/Program Files (x86)/MinGW/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Program Files (x86)/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0",
+						"D:/Program Files (x86)/MinGW/mingw64/lib/gcc",
+						"D:/Program",
+						"D:/Program Files (x86)/MinGW/mingw64/x86_64-w64-mingw32/lib",
+						"D:/Program Files (x86)/MinGW/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "D:/Program Files (x86)/MinGW/mingw64/bin/gcc.exe",
+				"version" : "11.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/Program Files (x86)/MinGW/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
